@@ -3,9 +3,85 @@
     "source":  "atlas",
     "label":  "Atlas principal",
     "category":  "atlas",
-    "generatedUtc":  "2026-07-11T15:04:08.9441185Z",
-    "publishedFileCount":  0,
+    "generatedUtc":  "2026-07-12T13:49:40.4445219Z",
+    "publishedFileCount":  7,
     "files":  [
-
+                  {
+                      "source":  "atlas",
+                      "category":  "atlas",
+                      "path":  "PUBLICAR\\atlas\\atlas\\maps\\aegis.png",
+                      "filename":  "aegis.png",
+                      "extension":  ".png",
+                      "sizeBytes":  2091865,
+                      "modifiedUtc":  "2026-07-11T16:04:30.4435286Z",
+                      "sha256":  "4c2802b44c09b470c73ca6b1d4dfb789cc9e4e4f56221bb0adc1d4c0a3fb869e",
+                      "publicAssetPath":  "assets/maps/atlas/PUBLICAR/atlas/atlas/maps/aegis.png"
+                  },
+                  {
+                      "source":  "atlas",
+                      "category":  "atlas",
+                      "path":  "PUBLICAR\\atlas\\atlas\\maps\\aegis-physical\\aegis-biomas.png",
+                      "filename":  "aegis-biomas.png",
+                      "extension":  ".png",
+                      "sizeBytes":  223495,
+                      "modifiedUtc":  "2026-07-11T16:06:59.1552460Z",
+                      "sha256":  "dfca47685c6dd9439dc8dd18b1b182cffdab56d2715e2ec99232dbb31186f16a",
+                      "publicAssetPath":  "assets/maps/atlas/PUBLICAR/atlas/atlas/maps/aegis-physical/aegis-biomas.png"
+                  },
+                  {
+                      "source":  "atlas",
+                      "category":  "atlas",
+                      "path":  "PUBLICAR\\atlas\\atlas\\maps\\aegis-physical\\aegis-clima.png",
+                      "filename":  "aegis-clima.png",
+                      "extension":  ".png",
+                      "sizeBytes":  264772,
+                      "modifiedUtc":  "2026-07-11T16:07:00.0975067Z",
+                      "sha256":  "d7bd625f85624145a9afd98e00c170d3c575ec43c6259a43c19995711d4cd566",
+                      "publicAssetPath":  "assets/maps/atlas/PUBLICAR/atlas/atlas/maps/aegis-physical/aegis-clima.png"
+                  },
+                  {
+                      "source":  "atlas",
+                      "category":  "atlas",
+                      "path":  "PUBLICAR\\atlas\\atlas\\maps\\aegis-physical\\aegis-hidrografia.png",
+                      "filename":  "aegis-hidrografia.png",
+                      "extension":  ".png",
+                      "sizeBytes":  216054,
+                      "modifiedUtc":  "2026-07-11T16:07:01.2472513Z",
+                      "sha256":  "da82ddd5e63e68f1ed9660559c43b21176ac329ab566bfdeb2d78382aff13a4c",
+                      "publicAssetPath":  "assets/maps/atlas/PUBLICAR/atlas/atlas/maps/aegis-physical/aegis-hidrografia.png"
+                  },
+                  {
+                      "source":  "atlas",
+                      "category":  "atlas",
+                      "path":  "PUBLICAR\\atlas\\atlas\\maps\\aegis-physical\\aegis-topografia.png",
+                      "filename":  "aegis-topografia.png",
+                      "extension":  ".png",
+                      "sizeBytes":  1013147,
+                      "modifiedUtc":  "2026-07-11T16:07:03.1178613Z",
+                      "sha256":  "90e746f6ef0c258da6136cff2a211324dd73b0b1de57e4ea5cf6ab75abbd22a6",
+                      "publicAssetPath":  "assets/maps/atlas/PUBLICAR/atlas/atlas/maps/aegis-physical/aegis-topografia.png"
+                  },
+                  {
+                      "source":  "atlas",
+                      "category":  "atlas",
+                      "path":  "PUBLICAR\\atlas\\atlas\\maps\\aegis-political\\aegis-politico.png",
+                      "filename":  "aegis-politico.png",
+                      "extension":  ".png",
+                      "sizeBytes":  244797,
+                      "modifiedUtc":  "2026-07-11T16:07:04.0794849Z",
+                      "sha256":  "b7d930ed5ea658b5031bdc064dcf7709e8f530ba3940c5e8be1c56ad10e88046",
+                      "publicAssetPath":  "assets/maps/atlas/PUBLICAR/atlas/atlas/maps/aegis-political/aegis-politico.png"
+                  },
+                  {
+                      "source":  "atlas",
+                      "category":  "atlas",
+                      "path":  "PUBLICAR\\atlas\\atlas\\maps\\aegis-sobrenatural\\aegis-sobrenatural.png",
+                      "filename":  "aegis-sobrenatural.png",
+                      "extension":  ".png",
+                      "sizeBytes":  352432,
+                      "modifiedUtc":  "2026-07-11T16:07:05.2504389Z",
+                      "sha256":  "9515201cc1ef9ca04c2c0550c5a294aff1c72c73b027ad11ecc07201ac013152",
+                      "publicAssetPath":  "assets/maps/atlas/PUBLICAR/atlas/atlas/maps/aegis-sobrenatural/aegis-sobrenatural.png"
+                  }
               ]
 }

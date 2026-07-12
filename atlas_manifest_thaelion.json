@@ -1,12 +1,12 @@
 ﻿{
     "schemaVersion":  "1.0",
-    "generatedUtc":  "2026-07-11T15:04:08.9441185Z",
+    "generatedUtc":  "2026-07-12T13:49:40.4445219Z",
     "indexes":  [
                     {
                         "source":  "atlas",
                         "category":  "atlas",
                         "file":  "data/atlas-index.json",
-                        "publishedFileCount":  0
+                        "publishedFileCount":  7
                     },
                     {
                         "source":  "biblia",
